@@ -7,4 +7,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\FramedMessage.Core\FramedMessage.Core.csproj" />
+    </ItemGroup>
+
 </Project>

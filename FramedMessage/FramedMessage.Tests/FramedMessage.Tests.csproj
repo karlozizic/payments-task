@@ -18,4 +18,8 @@
         <Using Include="Xunit"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <ProjectReference Include="..\FramedMessage.Core\FramedMessage.Core.csproj" />
+    </ItemGroup>
+
 </Project>
